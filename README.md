@@ -1,2 +1,2 @@
 # Bunny
-Trust no noe
+Trust no one
